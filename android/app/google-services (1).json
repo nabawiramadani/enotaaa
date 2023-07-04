@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027825818401",
+    "project_id": "deadline-fce2f",
+    "storage_bucket": "deadline-fce2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027825818401:android:0870ce8f608095b1267c60",
+        "android_client_info": {
+          "package_name": "com.example.enota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027825818401-505an6kj4r352mveqlvf3ciehek53u2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oPA-8RCzoJNj58-r7AdVP-9bz6G9MWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027825818401-505an6kj4r352mveqlvf3ciehek53u2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
